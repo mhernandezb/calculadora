@@ -7,7 +7,7 @@ package mundo;
 
 /**
  *
- * @author laboratorio
+ * @author Ejemplos de modelo
  */
 public class Modelo {
     double numero1;
